@@ -15,3 +15,6 @@ I approach development iteratively, using Agile practices like sprint planning, 
 
 ### What does it mean to be a good team member in software development?
 Being a good team member means communicating clearly, being reliable, and supporting others when they’re blocked. It’s about collaboration over competition—sharing knowledge, listening, and adapting. In Agile teams, good members help maintain transparency and accountability so that everyone succeeds together.
+
+## Supporting Documents
+See earlier course artifacts here: [CS-250 Supporting Documents](./CS-250%20Supporting%20Documents/)
